@@ -23,10 +23,10 @@ Chapter 1 code_Project_11 The Third Part 3 of "The Arduino World Book" code_Proj
     </a>
 </p>
 # Project Structure
-![شئ](https://user-images.githubusercontent.com/35774039/190873631-ef141a72-58b6-466b-9fcb-a5a16336fb18.PNG)
-![شئس](https://user-images.githubusercontent.com/35774039/190873635-6f7fe5e9-6eb7-497a-b972-4d803772372d.PNG)
-![شئسش](https://user-images.githubusercontent.com/35774039/190873638-2ff5cdfb-b88b-412f-a2ca-5de69e99aaa9.PNG)
 
+ ![a (1)](https://user-images.githubusercontent.com/35774039/190873681-9a1824e3-5485-44e8-ab39-2bcfed40cd27.PNG)
+![a (2)](https://user-images.githubusercontent.com/35774039/190873684-f4e6e85e-903a-497f-9ae8-659c3791fe22.PNG)
+![a (3)](https://user-images.githubusercontent.com/35774039/190873686-fd1d9537-c812-4c2f-9db3-562b4c07a460.PNG)
 
 
 
